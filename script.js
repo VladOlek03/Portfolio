@@ -1,5 +1,3 @@
-
-
 document.addEventListener("mousemove", parallax);
 
 function parallax(e) {
