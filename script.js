@@ -1,4 +1,4 @@
-
+/* */
 
 document.addEventListener("mousemove", parallax);
 
