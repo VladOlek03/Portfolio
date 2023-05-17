@@ -1,0 +1,5 @@
+Several changes were made to the javascript and css.
+The html has multiple new control1 elements added with lorem ipsum text. 
+The elements within the body are all inside a box class or main class.
+The CSS has new styles related to the animations and transitions within the webpage.
+The javascript now has a intersection script that is responsible for the effects within the page.
